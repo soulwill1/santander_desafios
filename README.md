@@ -1,2 +1,2 @@
 <h1>DESCRIÇÃO</h1>
-Neste repositório, você encontrará uma implementação abrangente de um desafio de modelagem de software que tem como objetivo representar de forma detalhada e precisa as funcionalidades de um iPhone. Este projeto utiliza princípios de programação orientada a objetos e técnicas de modelagem UML para criar uma estrutura robusta e versátil que permite que um dispositivo iPhone desempenhe os três papéis distintos e cruciais: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+Neste repositório, você encontrará implementações abrangentes dos desafios implementados durante o bootcamp Santander.
